@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suhaas10
-- I hate <div> soups.
+- Javascript developer - Opinionated over frameworks - keen on all the developments happening on WWW.
 - 📫 How to reach me suhaas69@gmail.com,phone - 9880739350
 
 <!---
