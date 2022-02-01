@@ -1,5 +1,10 @@
 - 👋 Hi, I’m @Suhaas10
-- Javascript developer - Opinionated over frameworks - keen on all the developments happening on the world wide web.
+- 💻 Frontend developer (Web and mobile apps).
+🌐 Keen follower of the JS world.
+ Opinionated over frameworks.
+ Passionate web 3 enthusiast.
+
+Specific strengths include HTML, CSS, JS, React, Redux, Vue and keeping up with the ever changing Web.
 - 📫 How to reach me suhaas69@gmail.com,phone - 9880739350
 
 <!---
