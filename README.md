@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suhaas10
+- 👋 Hi, I’m Suhaas
 - 💻 Frontend developer (Web and mobile apps).
 🌐 Keen follower of the JS world.
  Opinionated over frameworks.
