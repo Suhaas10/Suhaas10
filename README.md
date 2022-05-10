@@ -4,7 +4,6 @@
  Opinionated over frameworks.
  Passionate web 3 enthusiast.
 
-Specific strengths include HTML, CSS, JS, React, Redux, Vue and keeping up with the ever changing Web.
 - 📫 How to reach me suhaas69@gmail.com,phone - 9880739350
 
 <!---
