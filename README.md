@@ -11,4 +11,7 @@ Suhaas10/Suhaas10 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 <a href="https://app.daily.dev/jackass10"><img src="https://api.daily.dev/devcards/a1c2a7d542dd40e88e2cdfdaf8c8231a.png?r=bvw" width="400" alt="Suhaas's Dev Card"/></a>
+
