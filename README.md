@@ -4,7 +4,7 @@
  Opinionated over frameworks.
  Passionate web 3 enthusiast.
 
-- 📫 How to reach me suhaas69@gmail.com,phone - 9880739350
+- 📫 How to reach me suhaas69@gmail.com,phone - 9880739350,8618062096
 
 <!---
 Suhaas10/Suhaas10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
